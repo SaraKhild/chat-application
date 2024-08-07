@@ -6,7 +6,7 @@
 This project is a <strong>sophisticated chat application</strong> built using <strong>Spring WebFlux</strong> and <strong>WebSocket.</strong> 
 <mark><strong>It leverages RTopicReactive for real-time message broadcasting</strong></mark> and <mark><strong>RListReactive for persisting chat history.</mark></strong>
 The application ensures efficient,non-blocking communication, making it scalable and responsive.
-By combining <strong>reactive programming</strong> with <strong>WebSocket</strong>, it offers an optimized chat experience, suitable for <strong>high-concurrency environments.</strong>
+By combining <strong>Reactive Programming</strong> with <strong>WebSocket</strong>, it offers an optimized chat experience, suitable for <strong>high-concurrency environments.</strong>
 This setup ensures that <mark>all messages are broadcasted in real-time to all connected clients while maintaining a complete history of conversations.</mark>
   
 ## Usages
